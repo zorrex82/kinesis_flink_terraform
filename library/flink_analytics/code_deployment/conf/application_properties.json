@@ -1,0 +1,46 @@
+[
+    {
+        "PropertyGroupId": "kinesis.analytics.flink.run.options",
+        "PropertyMap": {
+            "python": "source/main.py",
+            "jarfile": "lib/PythonApplicationDependencies.jar"
+        }
+    },
+    {
+        "PropertyGroupId": "config.table.input",
+        "PropertyMap": {
+            "connector": "kinesis",
+            "stream": "input-test-flink",
+            "region": "us-east-1",
+            "name": "data_stream"
+        }
+    },
+    {
+        "PropertyGroupId": "config.table.output.stream",
+        "PropertyMap": {
+            "connector": "kinesis",
+            "stream": "output-test-flink",
+            "region": "us-east-1",
+            "name": "output_stream"
+        }
+    },
+    {
+        "PropertyGroupId": "config.table.output.csv",
+        "PropertyMap": {
+            "connector": "filesystem",
+            "format": "csv",
+            "path": "output-csv-flink",
+            "name": "outputcsv"
+        }
+    },
+    {
+        "PropertyGroupId": "config.execution.prop",
+        "PropertyMap": {
+            "extract_json": "pixKey",
+            "partition": "pixKey",
+            "group": "userId",
+            "code": "geruapphub.v1.loanproxysrv.submitfinalextendedinfo",
+            "order": "createdAt"
+        }
+    }
+]

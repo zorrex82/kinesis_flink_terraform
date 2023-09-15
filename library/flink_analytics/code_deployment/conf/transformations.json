@@ -1,0 +1,28 @@
+{
+    "source_table": "SOURCE_SQL_STREAM_001",
+    "destination_table": "DESTINATION_SQL_STREAM_F4211",
+    "filter_condition": "COL_tablename = 'F4211' AND COL_schemaname = 'JDE'",
+    "columns": [
+        {
+            "name": "op",
+            "expression": "CASE WHEN operation = 'load' THEN ' ' WHEN operation = 'insert' THEN 'I' WHEN operation = 'update' THEN 'U' WHEN operation = 'delete' THEN 'D' END"
+        },
+        {
+            "name": "commit_timestamp",
+            "expression": "COL_timestamp"
+        },
+        {
+            "name": "change_seq",
+            "expression": "change_seq"
+        },
+        {
+            "name": "sdkcoo",
+            "expression": "sdkcoo"
+        },
+        {
+            "name": "sddoco",
+            "expression": "sddoco"
+        }
+        
+    ]
+}

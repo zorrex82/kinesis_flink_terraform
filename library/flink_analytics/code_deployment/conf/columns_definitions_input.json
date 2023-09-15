@@ -1,0 +1,1104 @@
+{
+    "Columns": [
+        {
+            "Name": "bi_sdkcoo", 
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "bi_sddoco", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "bi_sddcto", 
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDLNID",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSFXO",
+             "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDMCU", 
+             "Type": "VARCHAR(24)"
+        },
+        {
+            "Name": "SDCO",  
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDOKCO",
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDOORN",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDOCTO",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDOGNO",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDRKCO",
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDRORN",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDRCTO",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDRLLN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDMCT",
+            "Type": "VARCHAR(24)"
+        },
+        {
+            "Name": "SDDMCS",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDAN8", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSHAN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPA8", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDRQJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDTRDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPDDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDADDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDIVD", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCNDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDGL", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDRSDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPEFJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPPDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDVR01",
+            "Type": "VARCHAR(50)"
+        },
+        {
+            "Name": "SDVR02",
+            "Type": "VARCHAR(50)"
+        },
+        {
+            "Name": "SDITM", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDLITM",
+            "Type": "VARCHAR(50)"
+        },
+        {
+            "Name": "SDAITM",
+            "Type": "VARCHAR(50)"
+        },
+        {
+            "Name": "SDLOCN",
+            "Type": "VARCHAR(40)"
+        },
+        {
+            "Name": "SDLOTN",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDFRGD",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDTHGD",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDFRMP",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDTHRP",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDEXDP",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDSC1",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDDSC2",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDLNTY",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDNXTR",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDLTTR",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDEMCU",
+            "Type": "VARCHAR(24)"
+        },
+        {
+            "Name": "SDRLIT",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDKTLN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCPNT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDRKIT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDKTP", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSRP1",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSRP2",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSRP3",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSRP4",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSRP5",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDPRP1",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDPRP2",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDPRP3",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDPRP4",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDPRP5",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDUOM", 
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDUORG",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSOQS",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSOBK",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSOCN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSONE",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDUOPN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDQTYT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDQRLV",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCOMM",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDOTQY",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDUPRC",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDAEXP",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDAOPN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPROV",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDTPC", 
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDAPUM",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDLPRC",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDUNCS",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDECST",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCSTO",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDTCST",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDINMG",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDPTC", 
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDRYIN",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDDTBS",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDTRDC",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFUN2",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDASN", 
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDPRGR",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDCLVL",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDCADC",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDKCO", 
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDDOC", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDCT", 
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDODOC",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDODCT",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDOKC", 
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDPSN", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDELN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDTAX1",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDTXA1",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDEXR1",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDATXT",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDPRIO",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDRESL",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDBACK",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSBAL",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDAPTS",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDLOB", 
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDEUSE",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDDTYS",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDNTR", 
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDVEND",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCARS",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDMOT", 
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDROUT",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSTOP",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDZON", 
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDCNID",
+            "Type": "VARCHAR(40)"
+        },
+        {
+            "Name": "SDFRTH",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSHCM",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSHCN",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDSERN",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDUOM1",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDPQOR",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDUOM2",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDSQOR",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDUOM4",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDITWT",
+            "Type": "DECIMAL"}
+               ,
+        {
+            "Name": "SDWTUM",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDITVL",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDVLUM",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDRPRC",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDORPR",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDORP", 
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDCMGP",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDGLC", 
+            "Type": "VARCHAR(8)"
+        },
+        {
+            "Name": "SDCTRY",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFY",  
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSO01",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO02",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO03",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO04",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO05",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO06",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO07",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO08",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO09",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO10",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO11",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO12",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO13",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO14",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO15",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDACOM",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDCMCG",
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDRCD", 
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDGRWT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDGWUM",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDSBL", 
+            "Type": "VARCHAR(16)"
+        },
+        {
+            "Name": "SDSBLT",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDLCOD",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDUPC1",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDUPC2",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDUPC3",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDSWMS",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDUNCD",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDCRMD",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDCRCD",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDCRR", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFPRC",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFUP", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFEA", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFUC", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDFEC", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDURCD",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDURDT",
+               "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDURAT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDURAB",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDURRF",
+            "Type": "VARCHAR(30)"
+        },
+        {
+            "Name": "SDTORG",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDUSER",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDPID", 
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDJOBN",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDUPMJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDTDAY",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSO16",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO17",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO18",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO19",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDSO20",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDIR01",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDIR02",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDIR03",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDIR04",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDIR05",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDSOOR",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDVR03",
+            "Type": "VARCHAR(50)"
+        },
+        {
+            "Name": "SDDEID",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPSIG",
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDRLNU",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDPMDT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDRLTM",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDRLDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDRQT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDADTM",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDOPTT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPDTT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPSTM",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDXDCK",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDXPTY",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDUAL",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDBSC", 
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDCBSC",
+            "Type": "VARCHAR(20)"
+        },
+        {
+            "Name": "SDCORD",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDDVAN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPEND",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDRFRV",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDMCLN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSHPN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDRSDT",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPRJM",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDOSEQ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDMERL",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDHOLD",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDHDBU",
+            "Type": "VARCHAR(24)"
+        },
+        {
+            "Name": "SDDMBU",
+            "Type": "VARCHAR(24)"
+        },
+        {
+            "Name": "SDBCRC",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDODLN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDOPDJ",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDXKCO",
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDXORN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDXCTO",
+            "Type": "VARCHAR(4)"
+        },
+        {
+            "Name": "SDXLLN",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDXSFX",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDPOE", 
+            "Type": "VARCHAR(12)"
+        },
+        {
+            "Name": "SDPMTO",
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDANBY",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPMTN",
+            "Type": "VARCHAR(24)"
+        },
+        {
+            "Name": "SDNUMB",
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDAAID",
+               "Type": "DECIMAL"}
+               ,
+        {
+            "Name": "SDSPATTN",  
+            "Type": "VARCHAR(100)"
+        },
+        {
+            "Name": "SDPRAN8",  
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPRCIDLN",  
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCCIDLN",  
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDSHCCIDLN", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDOPPID",  
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDOSTP",
+            "Type": "VARCHAR(6)"
+        },
+        {
+            "Name": "SDUKID",   
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDCATNM", 
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDALLOC", 
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDFULPID", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDALLSTS", 
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDOSCORE", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDOSCOREO", 
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDCMCO", 
+            "Type": "VARCHAR(10)"
+        },
+        {
+            "Name": "SDKITID", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDKITAMTDOM", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDKITAMTFOR", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDKITDIRTY", 
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDOCITT", 
+            "Type": "VARCHAR(2)"
+        },
+        {
+            "Name": "SDOCCARDNO", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "SDPMPN", 
+            "Type": "VARCHAR(60)"
+        },
+        {
+            "Name": "SDPNS", 
+            "Type": "DECIMAL"
+        },
+        {
+            "Name": "change_seq",
+            "Type": "VARCHAR(256)"
+        },
+        {
+            "Name": "COL_timestamp",
+            "Type": "VARCHAR(256)"
+        },
+        {
+            "Name": "COL_recordtype",
+            "Type": "VARCHAR(256)"
+        },
+        {
+            "Name": "operation",
+            "Type": "VARCHAR(256)"
+        },
+        {
+            "Name": "COL_partitionkeytype",
+            "Type": "VARCHAR(256)"
+        },
+        {
+            "Name": "COL_schemaname",
+            "Type": "VARCHAR(256)"
+        },
+        {
+            "Name": "COL_tablename",
+            "Type": "VARCHAR(256)"
+        }
+    ]
+}
